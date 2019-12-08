@@ -47,11 +47,11 @@ jekyll-archives:
 #######################################################
 
 # This is your site title
-title: Sera - OnePage Multi-Purpose Theme
+title: Shadi for Texas Senate
 # Website language
 lang: en-US
 # Header Title
-header-title: Create the <strong>Impossible</strong>
+header-title: Listening, Understanding and <strong>Doing!</strong>
 # Header Tagline
 headter-tagline: We Always
 
@@ -62,23 +62,23 @@ headter-tagline: We Always
 # Focus Buttons
 header-focus-button:
   title: Download Now
-  url: https://themeforest.net/collections/6069390-sera
+  url: 
 
 # Secondary Buttons
 header-secondary-button:
   title: Discover More
-  url: http://themeforest.net/user/gleesik
+  url: 
 
 #
 # This is your email adress, contact from send here all emails from contact section
 # IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server
 # To configure this contact form, first please send a fictive email afeter you enter below your email and verify that :)
 #
-email: your_email@example.com
+email: shadi@shadizitoon.com
 
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
-banner-link: https://themeforest.net/collections/6069390-sera
+banner-link: 
 
 ####################################
 ######  Global Social Links   ######
