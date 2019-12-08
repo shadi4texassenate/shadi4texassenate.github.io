@@ -1,3 +1,4 @@
+# Stackbit YAML
 stackbitVersion: "~0.2.0"
 ssgName: jekyll
 staticDir: ""
